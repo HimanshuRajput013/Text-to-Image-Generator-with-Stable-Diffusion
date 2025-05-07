@@ -32,7 +32,7 @@ The project is written in Python with class-based architecture (TextToImageGener
 ## 📌 Sample Notebook & Output Images
 You can test the code and view output images directly in this Colab notebook:
 
-## 🔗 Link: [(Add your Colab link here)](https://colab.research.google.com/drive/1fhWAp1fd1QEddFpR-C6rL5SHDC02VL3Z#scrollTo=w_J8ihW4C4g3)
+## 🔗 Link: [Colab link](https://colab.research.google.com/drive/1fhWAp1fd1QEddFpR-C6rL5SHDC02VL3Z#scrollTo=w_J8ihW4C4g3)
 
 ## 🚀 Technologies Used
 
